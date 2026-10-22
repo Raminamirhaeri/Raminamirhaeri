@@ -1,77 +1,64 @@
 <div align="center">
+  <img src="./assets/hero.svg" alt="Ramin Amirhaeri — Digital Growth, Technical SEO & AI Systems" width="100%" />
 
-<img src="./assets/hero.svg" alt="Ramin Amirhaeri — Digital Growth, Technical SEO & AI Systems" width="100%" />
-
+[**Website ↗**](https://ramfaseo.se/) · [**Articles ↗**](https://insights.ramfaseo.se/) · [**Instagram @ramin_amirhaeri ↗**](https://www.instagram.com/ramin_amirhaeri/)
 </div>
 
 ### Hey, I'm Ramin 👋
 
-I work where **search, product and engineering** meet. I'm a **Digital Growth Manager** and the founder of **Ramfa SEO**, based in Sweden.
+I work on **digital growth, technical SEO and the systems behind websites**. I founded **Ramfa SEO** and I'm based in Sweden.
 
-My work is about making digital products easier to discover, faster to use and simpler to improve. Some days that's technical SEO and indexation; other days it's WordPress architecture, performance troubleshooting, or building AI-assisted workflows that actually save time.
+My work often starts with a simple question: what's stopping this site from working as well as it should? That can lead to a crawl or indexing investigation, a WordPress performance fix, or an AI workflow that takes a repetitive task off someone's plate.
 
-**What matters to me:** thoughtful execution, clean foundations and measurable growth. No manufactured metrics or shiny dashboards for their own sake.
+I've worked with WordPress, Shopify and custom platforms, alongside product, design and engineering teams. I like staying involved from the first diagnosis through implementation and checking what changed.
 
 ### What I work on
 
 <div align="center">
-
-<img src="./assets/capabilities.svg" alt="Technical SEO, engineering, AI & automation, measurement" width="100%" />
-
+  <img src="./assets/capabilities.svg" alt="Capabilities: technical SEO, web engineering, AI and automation, measurement" width="100%" />
 </div>
 
-| Focus | How I work |
+| Focus | The work behind it |
 |:--|:--|
-| **Technical SEO** | Crawlability, indexing, information architecture, canonicalization, hreflang, structured data. |
-| **Web & platform engineering** | WordPress, technical performance, integrations, stability, and cross-functional delivery. |
-| **AI & automation** | Practical assistants and workflows that reduce repetitive work while keeping people in control. |
-| **Digital growth** | Analytics, Search Console, prioritization, experiments, and connecting execution with outcomes. |
+| **Technical SEO** | Crawlability and indexing, site architecture, canonicals, hreflang and structured data. |
+| **WordPress & web systems** | Performance troubleshooting, integrations and the technical foundations that keep a site usable and maintainable. |
+| **AI & automation** | Practical assistants and workflows, with human review where the decisions matter. |
+| **Digital growth** | Search Console, analytics and experiments that help decide what to improve next. |
 
-### The way I approach a problem
+### How I approach a problem
 
-```text
-DISCOVER → DIAGNOSE → PRIORITIZE → BUILD → MEASURE → IMPROVE
-```
+**Understand → Diagnose → Prioritize → Build → Measure**
 
-I prefer a clear diagnosis over another checklist, production-ready work over quick fixes, and reporting that explains what changed **and why it matters**.
+I start by finding the cause, then make the smallest useful change and check the result. A good handover should explain what changed, why it changed and what to watch next.
 
-### Beyond the code — on Instagram
+### Beyond GitHub · Instagram
 
-I share practical, short-form notes on **SEO, AI tools and digital growth** — ideas you can actually try, not just buzzwords.
+Find me on Instagram at **[@ramin_amirhaeri](https://www.instagram.com/ramin_amirhaeri/)**. It's another place to connect around SEO, AI tools and digital growth.
 
 <div align="center">
+  <a href="https://www.instagram.com/ramin_amirhaeri/">
+    <img src="./assets/instagram.svg" alt="Visit Ramin on Instagram — @ramin_amirhaeri" width="100%" />
+  </a>
 
-<a href="https://www.instagram.com/ramin_amirhaeri/" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/instagram.svg" alt="Find Ramin on Instagram — @ramin_amirhaeri" width="100%" />
-</a>
-
-[**Follow along on Instagram ↗**](https://www.instagram.com/ramin_amirhaeri/)
-
+[**Visit @ramin_amirhaeri on Instagram ↗**](https://www.instagram.com/ramin_amirhaeri/)
 </div>
 
 ### Notes from the field
 
-I write about technical search problems found on real sites, with implementation details rather than recycled advice.
+I write about the technical decisions behind search performance on **RamfaSeo Insights**. A few places to start:
 
-- [Canonical tags: resolving duplicate-content signals](https://insights.ramfaseo.se/canonical-tags-explained-how-to-fix-duplicate-content-without-killing-rankings-real-world-rules-not-theory/)
-- [Hreflang: avoiding international SEO chaos](https://insights.ramfaseo.se/hreflang-done-right-avoiding-international-seo-chaos-on-multilingual-sites-without-creating-duplicate-content/)
-- [Programmatic SEO: thinking in systems, not just templates](https://insights.ramfaseo.se/programmatic-seo-keyword-research/)
+- [**Canonical tags** — choosing the right signals for duplicate URLs](https://insights.ramfaseo.se/canonical-tags-explained-how-to-fix-duplicate-content-without-killing-rankings-real-world-rules-not-theory/)
+- [**Hreflang** — getting multilingual and regional pages working together](https://insights.ramfaseo.se/hreflang-done-right-avoiding-international-seo-chaos-on-multilingual-sites-without-creating-duplicate-content/)
+- [**Programmatic SEO** — deciding which pages are worth building](https://insights.ramfaseo.se/programmatic-seo-keyword-research/)
 
-[**More articles and practical notes ↗**](https://insights.ramfaseo.se/)
+[**Browse all articles ↗**](https://insights.ramfaseo.se/)
 
-### A few things worth knowing
+### Let's connect
 
-- I work across **strategy and implementation** — from the audit to the changes that ship.
-- I like the less glamorous, high-leverage work: crawl access, server behavior, performance, and reliable automation.
-- Most commercial engineering work stays in **private repositories**. Client code, infrastructure and confidential data don't belong in a public portfolio.
-- I care about the details, but what matters most is the experience people actually get.
+[**Ramfa SEO ↗**](https://ramfaseo.se/) · [**Instagram ↗**](https://www.instagram.com/ramin_amirhaeri/) · [**LinkedIn ↗**](https://www.linkedin.com/in/ramin-amir-haeri/)
 
-### Find me elsewhere
-
-[**Ramfa SEO ↗**](https://ramfaseo.ca/) · [**Technical insights ↗**](https://insights.ramfaseo.se/) · [**Instagram ↗**](https://www.instagram.com/ramin_amirhaeri/)
-
-<br />
+If you're working through a technical search problem or building a useful workflow, I'd be glad to compare notes.
 
 <div align="center">
-<img src="./assets/signature.svg" alt="Less noise. More signal." width="100%" />
+  <img src="./assets/signature.svg" alt="Less noise. More signal. — Ramin Amirhaeri" width="100%" />
 </div>
